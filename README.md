@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Clifford! 👋
 
-<!--
-**cliffordsepato/cliffordsepato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst based in Johannesburg, with working experience in VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, PowerBI, Machine Learning and Big Data.  
 
-Here are some ideas to get you started:
+### Education 👨‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **University of Birmingham**: Data Analytics Certificate
+* **EXPLORE Data Science Academy**: Data Science Certificate   
+
+
+A few of my favourite things:
+
+
+- 🤔 Solving complex problems
+- 🤓 Learning new technologies
+- 📉 Visualising data
+- 👯 Team work and Collaboration
+- 🌍 Travelling
+- 📖 Reading
+- 🎵 Listening to music
+
+
