@@ -15,7 +15,7 @@ A few of my favourite things:
 
 **What you'll find here**
 
-On this page👋 , you'll find a mix of personal and professional projects that showcase my skills and interests 🤓. From data analysis 📊 and machine learning 🤖 to web development 🌐 and automation ⚙️, I enjoy exploring new tools and techniques to push the boundaries of what's possible 💥. Let's collaborate on something awesome! 🚀
+On this page , you'll find a mix of personal and professional projects that showcase my skills and interests. From data analysis and machine learning to web development and automation , I enjoy exploring new tools and techniques to push the boundaries of what's possible . Let's collaborate on something awesome! 
 
 Some of my recent projects include:
 
@@ -25,7 +25,7 @@ Some of my recent projects include:
 
 **What I'm working on**
 
-Currently, I'm focused on developing more robust and user-friendly web apps using Python 🐍 and Streamlit 🚀. I'm also exploring new ways to use machine learning 🤖 and natural language processing 🗣️ to enhance data-driven decision making in various industries 📈. Let's build something amazing together! 💪
+Currently, I'm focused on developing more robust and user-friendly web apps using Python and Streamlit . I'm also exploring new ways to use machine learning and natural language processing to enhance data-driven decision making in various industries. Let's build something amazing together! 
 
 **How to get in touch**
 
