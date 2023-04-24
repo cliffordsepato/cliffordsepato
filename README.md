@@ -1,7 +1,7 @@
 
 # Hi, I'm Clifford! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub page, where you can find some of my latest projects and contributions to the open-source community. I'm a data scientist and software developer with a passion for using technology to solve real-world problems.
+Welcome to my GitHub page!👋  Here, you'll find some of my latest projects and contributions to the open-source community 🚀. I'm a data scientist with a passion for using technology 🤖 to solve real-world problems 🌍. Let's build something amazing together!💪
 
 A few of my favourite things:
 
