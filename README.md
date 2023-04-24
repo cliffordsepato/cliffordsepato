@@ -20,8 +20,12 @@ On this page , you'll find a mix of personal and professional projects that show
 Some of my recent projects include:
 
 * [Project 1]: Analysing the effects of covid-19 on housing prices in the UK.
-* [Project 2]: Visualising data from the New York Citi Bike Program,one of the largest bike sharing program in the United States.
-* [Project 3]: A web app for automating social media scheduling and analysis.
+* [Project 2]: [Visualising data from the New York Citi Bike Program.]( https://github.com/cliffordsepato/citi-bike-analytics)
+* [Project 3]: [A Machine learning model to predict whether a loan will become high risk or not.]( https://github.com/cliffordsepato/Predicting-Credit-Risk)
+
+
+
+
 
 **What I'm working on**
 
