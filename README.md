@@ -1,10 +1,9 @@
 
-### Hi, I'm Clifford! 👋🏾 
+# Hi, I'm Clifford! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a data scientist based in Johannesburg, with working experience in VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, PowerBI, Machine Learning and Big Data.  
- 
+Welcome to my GitHub page, where you can find some of my latest projects and contributions to the open-source community. I'm a data scientist and software developer with a passion for using technology to solve real-world problems.
+
 A few of my favourite things:
-
 
 - 👩🏾‍💻 Solving complex problems
 - ✍🏾 Learning new technologies
@@ -13,3 +12,25 @@ A few of my favourite things:
 - 🌍 Travelling
 - 📖 Reading
 - 🎵 Listening to music
+
+**What you'll find here**
+
+On this page, you'll find a mix of personal and professional projects that showcase my skills and interests. From data analysis and machine learning to web development and automation, I enjoy exploring new tools and techniques to push the boundaries of what's possible.
+
+Some of my recent projects include:
+
+* [Project 1]: A data visualization tool for exploring global health data.
+* [Project 2]: A machine learning model for predicting customer churn in a telecom company.
+* [Project 3]: A web app for automating social media scheduling and analysis.
+
+**What I'm working on**
+
+Right now, I'm focused on developing more robust and user-friendly web apps using Python and Streamlit. I'm also exploring new ways to use machine learning and natural language processing to enhance data-driven decision making in various industries.
+
+**How to get in touch**
+
+If you have any questions about my projects or would like to collaborate on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordsepato/) or [Twitter](https://twitter.com/csepato). I'm always open to new ideas and opportunities to learn and grow as a developer and data scientist.
+
+Thanks for visiting my page, and happy coding! 🚀
+ 
+
