@@ -35,7 +35,7 @@ Currently, I'm focused on developing more robust and user-friendly web apps usin
 
 If you have any questions about my projects or would like to collaborate on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordsepato/) or [Twitter](https://twitter.com/csepato). I'm always open to new ideas and opportunities to learn and grow as a developer and data scientist.
 
- If you like my work and want to support me, you can buy me a coffee ☕️ on [BuyMeACoffee.com](BuyMeACoffee.com/dxc2023). Your support means a lot! 😊
+ If you like my work and want to support me, you can buy me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). Your support means a lot! 😊
 
 Thanks for visiting my page, and happy coding! 🚀
  
