@@ -20,7 +20,7 @@ On this page , you'll find a mix of personal and professional projects that show
 Some of my recent projects include:
 
 * [Project 1]: Analysing the effects of covid-19 on housing prices in the UK.
-* [Project 2]: A machine learning model for predicting customer churn in a telecom company.
+* [Project 2]: Visualising data from the New York Citi Bike Program,one of the largest bike sharing program in the United States.
 * [Project 3]: A web app for automating social media scheduling and analysis.
 
 **What I'm working on**
