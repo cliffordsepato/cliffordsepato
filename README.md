@@ -29,7 +29,7 @@ Some of my recent projects include:
 
 **What I'm working on**
 
-Currently, I'm focused on developing more robust and user-friendly web apps using Python and Streamlit . I'm also exploring new ways to use machine learning and natural language processing to enhance data-driven decision making in various industries. Let's build something amazing together! 
+Currently, I'm focused on developing more robust and user-friendly web apps using Python and Streamlit . I'm also exploring new ways to use machine learning and natural language processing to enhance data-driven decision making in various industries.
 
 **How to get in touch**
 
