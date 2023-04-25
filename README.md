@@ -19,9 +19,9 @@ On this page , you'll find a mix of personal and professional projects that show
 
 Some of my recent projects include:
 
-* [Project 1]: [Analysing the effects of covid-19 on housing prices in the UK.](https://github.com/cliffordsepato/Analysing-housing-prices-in-the-UK)
-* [Project 2]: [Visualising data from the New York Citi Bike Program.]( https://github.com/cliffordsepato/citi-bike-analytics)
-* [Project 3]: [A Machine learning model to predict whether a loan will become high risk or not.]( https://github.com/cliffordsepato/Predicting-Credit-Risk)
+* Project 1: [Analysing the effects of covid-19 on housing prices in the UK.](https://github.com/cliffordsepato/Analysing-housing-prices-in-the-UK)
+* Project 2: [Visualising data from the New York Citi Bike Program.]( https://github.com/cliffordsepato/citi-bike-analytics)
+* Project 3: [A Machine learning model to predict whether a loan will become high risk or not.]( https://github.com/cliffordsepato/Predicting-Credit-Risk)
 
 
 
