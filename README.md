@@ -33,12 +33,18 @@ Currently, I'm focused on developing more robust and user-friendly web apps usin
 
 **How to get in touch**
 
-If you have any questions about my projects or would like to collaborate on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordsepato/) or [Twitter](https://twitter.com/csepato). I'm always open to new ideas and opportunities to learn and grow as a developer and data scientist.
+<table font-size:30px;>
+   <tr>
+      <td><a href="https://www.youtube.com/channel/UC9yFaiO98GRvLaSqRP4BVXg?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC9yFaiO98GRvLaSqRP4BVXg?style=social&logo=Youtube&label=Subscribe%20to%20my%20Channel"></a></td>
+</table>
 
- If you like my work and want to support me, you can buy me a coffee ☕️ on [BuyMeACoffee.com](https://BuyMeACoffee.com/dxc2023). 
- 
- Your support means a lot! 😊
+If you have any questions about my projects or would like to collaborate on a project, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordsepato/) or [Twitter](https://twitter.com/csepato). 
 
-Thanks for visiting my page, and happy coding! 🚀
+I'm always open to new ideas and opportunities to learn and grow as a developer and data scientist.
+
+ If you like my work and want to support me, you can buy me a coffee ☕️.
  
+ <a href="https://www.buymeacoffee.com/dxc2023" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+ 
+ Your support means a lot! 😊 
 
